@@ -173,3 +173,6 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
+app/libs/
+app/release/output-metadata.json
+app/src/main/res/drawable-v24/
