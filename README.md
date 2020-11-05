@@ -1,6 +1,6 @@
 # Launch Assistant
 
-Launch Assistant is a helper app that opens the Google Assistant. This is required if you are using a Samsung phone with a Bixby button. Because Samsung not allows other assistant apps to be opend with this otherwise usless button.
+Launch Assistant is a helper app that opens the Google Assistant. This is required if you are using a Samsung phone with a Bixby button. Because Samsung does not allow other assistant apps to be opened with this otherwise useless button.
 
 ## Usage
 
